@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="cn.edu.gdmec.s07150628.menu.MainActivity"
+    <string name="menu1">menu1</string>
+    <string name="menu2">menu2</string>
+    <string name="menu3">menu3</string>
+</resources>
